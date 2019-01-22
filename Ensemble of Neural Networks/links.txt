@@ -1,0 +1,22 @@
+ECEN 689 - Project2
+
+Datasets
+
+1. San fransisco Crime stats - given time and location, predict category of crime
+https://www.kaggle.com/c/sf-crime/data
+
+
+mnist fashion articles
+
+https://medium.com/nanonets/how-to-classify-fashion-images-easily-using-convnets-81e1e0019ffe
+
+https://github.com/zalandoresearch/fashion-mnist
+
+https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a
+
+https://medium.com/@CVxTz/audio-classification-a-convolutional-neural-network-approach-b0a4fce8f6c
+
+https://www.kaggle.com/c/freesound-audio-tagging
+
+https://github.com/CVxTz/audio_classification/blob/master/code/keras_cnn_mel.py
+

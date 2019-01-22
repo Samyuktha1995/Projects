@@ -1,0 +1,11 @@
+﻿country,neighbor1,neighbor2
+Aruba,Armenia,Afghanistan
+Afghanistan,American Samoa,Argentina
+Angola,Argentina,Andorra
+Albania,Andorra,Aruba
+Andorra,United Arab Emirates,Armenia
+Arab World,Angola,United Arab Emirates
+United Arab Emirates,Afghanistan,Arab World
+Argentina,Aruba,Albania
+Armenia,Albania,American Samoa
+American Samoa,Arab World,Angola

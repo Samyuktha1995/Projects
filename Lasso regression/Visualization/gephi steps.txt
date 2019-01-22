@@ -1,0 +1,15 @@
+load data
+set GeoLayout
+Node > Partition > Attribute = continent
+	choose pallet > apply
+	size 22 > apply
+
+Show labels (bottom row 3rd icon)
+Change layout to > LabelAdjust
+
+#same color for edges 
+edges > Unique > apply (default gray)
+
+#preview
+Preview settings > Refresh
+Preview done
